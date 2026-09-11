@@ -1,0 +1,23 @@
+SYNTHETIC TEST CV — NOT A REAL PERSON
+
+Candidate: Alex Khan
+Target role: Senior Renewable Energy Engineer / Lender Technical Advisor
+
+Summary:
+Renewable energy engineer with 8 years of experience across utility-scale solar PV and BESS technical reviews.
+
+Experience:
+- Solar engineering and technical review for utility-scale projects.
+- Reviewed energy yield reports, PV module and inverter technical documentation.
+- Participated in grid connection and technical due diligence activities.
+- Experience reviewing BESS degradation assumptions, warranties and augmentation concepts.
+- Prepared technical risk observations for project stakeholders.
+
+Skills:
+Solar PV, BESS, energy yield, grid connection, technical due diligence, EPC review, O&M review, technical documentation.
+
+Education:
+BSc Engineering.
+
+Note:
+This synthetic CV intentionally does not provide exact project capacities, employer names, client names, or financial results.

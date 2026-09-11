@@ -690,9 +690,6 @@ with st.expander("⚙️ Prototype controls — connect these to your RAG/voice 
 
 requirements = """streamlit>=1.45,<2.0
 """
-
-readme = """# InterviewForge AI — Dashboard UI
-
 This package recreates the supplied InterviewForge-style dashboard in Streamlit.
 
 ## Included
